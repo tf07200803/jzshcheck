@@ -252,3 +252,7 @@ function rema(arr){
     }
     return score;
 }
+
+function btnclick(){
+    window.location.reload()
+}
